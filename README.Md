@@ -61,5 +61,5 @@ A beautiful, real-time chat application built with Next.js, Express, MongoDB, an
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/chat-app.git
+git clone https://github.com/VarshaVasudevan/chat-app-next-js
 cd chat-app
