@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+
 # 💬 ChatVerse - Modern Real-time Chat Application
 
 ![ChatVerse Banner](screenshots/3-chat-interface.png)
